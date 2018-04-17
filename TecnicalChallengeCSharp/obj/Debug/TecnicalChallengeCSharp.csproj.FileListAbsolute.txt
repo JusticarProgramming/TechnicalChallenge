@@ -5,3 +5,10 @@ c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\Tec
 c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.exe
 c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.pdb
 c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\bin\Debug\TecnicalChallengeCSharp.exe.config
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\bin\Debug\TecnicalChallengeCSharp.exe
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\bin\Debug\TecnicalChallengeCSharp.pdb
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.exe
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.pdb

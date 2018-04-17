@@ -1,0 +1,6 @@
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\bin\Release\TecnicalChallengeCSharp.exe.config
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\bin\Release\TecnicalChallengeCSharp.exe
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\bin\Release\TecnicalChallengeCSharp.pdb
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\obj\Release\TecnicalChallengeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\obj\Release\TecnicalChallengeCSharp.exe
+C:\Users\vicus\Documents\Visual Studio 2017\Projects\TecnicalChallengeCSharp\TechnicalChallenge\TecnicalChallengeCSharp\obj\Release\TecnicalChallengeCSharp.pdb
