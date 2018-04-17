@@ -1,0 +1,7 @@
+c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\bin\Debug\TecnicalChallengeCSharp.exe.config
+c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\bin\Debug\TecnicalChallengeCSharp.exe
+c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\bin\Debug\TecnicalChallengeCSharp.pdb
+c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.csproj.CoreCompileInputs.cache
+c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.exe
+c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.pdb
+c:\users\vicus\documents\visual studio 2017\Projects\TecnicalChallengeCSharp\TecnicalChallengeCSharp\obj\Debug\TecnicalChallengeCSharp.csprojResolveAssemblyReference.cache
